@@ -69,6 +69,9 @@ sudoku-solver/
 ├── sudoku.py # Backtracking solver core
 └── README.md # This file
 
+main.py
+<img width="342" height="96" alt="image" src="https://github.com/user-attachments/assets/b043ec79-0d8f-414e-9740-e0c44ba83977" />
+
 
 ## 🎯 **Learning Outcomes**
 
