@@ -64,13 +64,17 @@ Uses Python **generators** (`yield`) to emit each step:
 
 ## 🏗️ **Project Structure**
 sudoku-solver/
+
 ├── main.py # Entry point & Tkinter root
+
 ├── ui.py # Complete GUI implementation
+
 ├── sudoku.py # Backtracking solver core
+
 └── README.md # This file
 
-main.py
-<img width="342" height="96" alt="image" src="https://github.com/user-attachments/assets/b043ec79-0d8f-414e-9740-e0c44ba83977" />
+<img width="828" height="350" alt="File Structure" src="https://github.com/user-attachments/assets/4efac526-8d1e-40fd-ac80-d1b50a3d548a" />
+
 
 
 ## 🎯 **Learning Outcomes**
